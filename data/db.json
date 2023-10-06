@@ -1,0 +1,94 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 2,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 3,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 4,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 5,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 6,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 7,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 8,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 9,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2017-12-12T12:12:12.000Z",
+      "arrival_date": "2017-12-12T12:12:12.000Z"
+    },
+    {
+      "id": 10,
+      "flight_number": "JAL123",
+      "airline": "JAL",
+      "from": "Tokyo",
+      "to": "New York",
+      "departure_date": "2018-12-12T12:12:12.000Z",
+      "arrival_date": "2018-12-12T12:12:12.000Z"
+    }
+  ]
+}
